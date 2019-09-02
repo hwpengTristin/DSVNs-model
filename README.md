@@ -4,21 +4,27 @@ We present an effective Disentangled Spectrum Variations Networks (DSVNs) for NI
 # Usage
 ## project list
 
-support.py
-
 DSVNs_Architecture.py
 
 similarity_calculation.py
+
+DSVNs_model_test.py
+
+support.py
+
+NIR_sample.png
+
+VIS_sample.png
 
 README.md
 
 ## model parameters
 
-model-DSVNs.ckpt.data-00000-of-00001
+model-DSVNs-one-fold.ckpt-2220.data-00000-of-00001
 
-model-DSVNs.ckpt.index
+model-DSVNs-one-fold.ckpt-2220.index
 
-model-DSVNs.meta
+model-DSVNs-one-fold.meta
 
 ## Test the DSVNs network
 One can test the DSVNs network by runing DSVNs_model_test.py. 
