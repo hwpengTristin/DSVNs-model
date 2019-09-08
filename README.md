@@ -32,7 +32,7 @@ One can test the DSVNs network by runing DSVNs_model_test.py.
 # The trained DSVNs models
 
 ## The CASIA NIR-VIS 2.0 dataset
-We first pre-train the IDNet using MS_Celeb_1M dataset, and then fine-tune the DSVNs using CASIA NIR-VIS 2.0 dataset. The trained model (one of the tenfold) can be found here (Release after the paper has been accepted). The DSVNs achieves rank-1 accuracy of 99.0 ± 0.3 and VR@FAR=0.1%(%) of 98.6 ± 0.3 on CASIA NIR-VIS 2.0, respectively.
+We first pre-train the IDNet using MS_Celeb_1M dataset, and then fine-tune the DSVNs using CASIA NIR-VIS 2.0 dataset. The trained model (one of the tenfold) can be found here (https://pan.baidu.com/s/1HY6OutkrS1yjfFFTxNv2Vw password: fcnf). The DSVNs achieves rank-1 accuracy of 99.0 ± 0.3 and VR@FAR=0.1%(%) of 98.6 ± 0.3 on CASIA NIR-VIS 2.0, respectively.
 
 ## The Oulu-CASIA NIR-VIS dataset
 We first pre-train the IDNet using MS_Celeb_1M dataset, and then fine-tune the DSVNs using Oulu-CASIA NIR-VIS dataset. The DSVNs achieves rank-1 accuracy of 100% and VR@FAR=0.1%(%) of 95.5 on Oulu-CASIA NIR-VIS, respectively.
