@@ -56,7 +56,7 @@ The Joint Bayesian classifier can be found here (http://jiansun.org/papers/ECCV1
 Part of our code is based on Github's open source project (https://github.com/davidsandberg/facenet).
 
 # Reference
-[1] W. P. Hu and H. F. Hu, "Disentangled Spectrum Variations Networks for NIR-VIS Face Recognition," under review, 2019
+[1] W. P. Hu and H. F. Hu, "Disentangled Spectrum Variations Networks for NIR-VIS Face Recognition," IEEE Trans. on Multimedia, 2019.
 
 [2] F. Schroff, D. Kalenichenko and J. Philbin, "Facenet: A unified embedding for face recognition and clustering," IEEE Conf. Computer Vision and Pattern Recognition, 2015, pp. 815-823.
 
